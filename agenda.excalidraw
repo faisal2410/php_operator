@@ -1,0 +1,48 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "text",
+      "version": 310,
+      "versionNonce": 1681078913,
+      "isDeleted": false,
+      "id": "_6OWcPcPDgh3bK8RWZwaO",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 574,
+      "y": 124.48941176470589,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 530.3203125,
+      "height": 351.4616470588234,
+      "seed": 1318845462,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1713388527685,
+      "link": null,
+      "locked": false,
+      "fontSize": 26.62588235294117,
+      "fontFamily": 3,
+      "text": "Topics\n1. Operators\n2. Arithmetic Operator\n3. Assignment Operator\n4. Comparison Operator\n5. Increment/Decrement Operator\n6. Logical Opeator\n7. String Operator\n8. Array Operator\n9. Conditional assignment Operator\n10. Operator Precedence",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Topics\n1. Operators\n2. Arithmetic Operator\n3. Assignment Operator\n4. Comparison Operator\n5. Increment/Decrement Operator\n6. Logical Opeator\n7. String Operator\n8. Array Operator\n9. Conditional assignment Operator\n10. Operator Precedence",
+      "lineHeight": 1.2,
+      "baseline": 344
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
